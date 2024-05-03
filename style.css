@@ -32,6 +32,7 @@ header div {
 
 main {
     padding: 32px;
+    background-color: #EAEDED;
 }
 
 .giftcards {
@@ -59,3 +60,49 @@ main {
 .giftguides h1, h3 {
     padding: 10px;
 }
+
+.quattrofoto {
+    background-color: white;
+    margin-top: 25px;
+    height: 470px;
+    padding: 18px;
+    
+    
+}
+
+#titlecont {
+    
+    height: 35px;
+    padding-bottom: 5px;
+    display: block;
+}
+
+#titlecont span {
+    margin-right: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    
+}
+
+.Shopn {
+    font-size: smaller;
+    color: #017083;
+}
+
+.img {
+    object-fit: cover;
+    width: 300px;
+    height: 370px;
+    margin: 10px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.flexy {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+}
+
+
