@@ -1,0 +1,61 @@
+* {
+    margin:0;
+    box-sizing: border-box;
+}
+
+.logo{
+    background-color: #222F3E;
+    height: 50px;
+}
+
+.menu{
+    background-color: #354758;
+    height: 30px;
+    
+}
+
+header img {
+    width: 120px;
+    
+    
+}
+
+header div {
+    padding: 5px 32px;
+}
+
+.menu span {
+    color: white;
+    font-family: Arial;
+    margin-right: 15px;
+}
+
+main {
+    padding: 32px;
+}
+
+.giftcards {
+    background-color: #F56600;
+    margin-bottom: 25px;
+    height: 30px;
+    font-family: Arial;
+    color: white;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.giftguides {
+    background-image: url(fotosito/bg-image.png);
+    height: 195px;
+    color: white;
+    font-family: Arial;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.giftguides h1, h3 {
+    padding: 10px;
+}
